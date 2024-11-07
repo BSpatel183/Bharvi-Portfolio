@@ -1,10 +1,9 @@
 # Bharvi Bhut
 
-## Portfolio
-[Click here](https://html-preview.github.io/?url=https://github.com/BSpatel183/Bharvi-Portfolio/blob/main/index.html) to view the Website.
+## [Click here](https://html-preview.github.io/?url=https://github.com/BSpatel183/Bharvi-Portfolio/blob/main/index.html) to view the Website.
 
 
-## Preview Images
+## -> Preview Images
 
 ![image](https://github.com/user-attachments/assets/eb9aa74d-827a-47d3-a4a9-d9fc83f46ee5)
 
